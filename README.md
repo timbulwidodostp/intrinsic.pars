@@ -1,6 +1,8 @@
 # intrinsic.pars
 Intrinsic Parameters Estimation Use intrinsic.pars (multgee) With (In) R Software
 
+https://www.youtube.com/watch?v=WqLIgFF4Ez4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
